@@ -1,4 +1,3 @@
-ECHO is on.
 # Expense Tracker App
 
 A **full-stack Expense Tracker** built using **HTML, CSS, JavaScript, Node.js, Express.js,
