@@ -1,7 +1,9 @@
 # Expense Tracker App
 
 A **full-stack Expense Tracker** built using **HTML, CSS, JavaScript, Node.js, Express.js,
-MongoDB Atlas**, and **Chart.js** for real-time visual analytics.
+MongoDB Atlas**, and **Chart.js** for real-time visual analytics.It allows users to track 
+their income and expenses, visualize data through pie charts, and store transactions 
+securely in the cloud.
 
 ---
 
