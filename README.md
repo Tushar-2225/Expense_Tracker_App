@@ -83,6 +83,7 @@ Expense_Tracker_App/
 ---
 
 🌍 Deployment Setup (Render)
+
 Frontend: Deployed as static site on Render
 
 Backend: Deployed as web service on Render
