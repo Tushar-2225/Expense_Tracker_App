@@ -7,6 +7,13 @@ securely in the cloud.
 
 ---
 
+## 🔗 Live Demo
+
+- **Frontend**: [https://expense-tracker-frontend-abc1.onrender.com](https://expense-tracker-frontend-g3p1.onrender.com)  
+- **Backend (API)**: [https://expense-tracker-backend-xyz2.onrender.com/api/expenses](https://expense-tracker-backend-6mfd.onrender.com/api/expenses)
+
+---
+
 ## 🚀 Features
 
 - ✅ Add, view, and delete expenses & incomes
@@ -44,8 +51,6 @@ Expense_Tracker_App/
 
 ---
 
----
-
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:
@@ -77,6 +82,15 @@ Expense_Tracker_App/
 
 ---
 
+🌍 Deployment Setup (Render)
+Frontend: Deployed as static site on Render
+
+Backend: Deployed as web service on Render
+
+Fetch URLs in script.js point to the live backend API
+
+---
+
 ## 📚 Learning Outcome
 
 - Full-stack integration (frontend ↔ backend ↔ database)
@@ -93,6 +107,7 @@ Expense_Tracker_App/
 - [MongoDB Atlas](https://www.mongodb.com/atlas/database)
 - [Chart.js](https://www.chartjs.org/)
 - [Node.js](https://nodejs.org/)
+- [Render](https://render.com/)
 
 ---
 
